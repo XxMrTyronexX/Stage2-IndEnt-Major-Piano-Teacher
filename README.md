@@ -7,8 +7,8 @@ This is the source code for my SACE Stage 2 Industry and Entrepreneurial Solutio
  - [Raspberry Pi 3 Model B+](https://core-electronics.com.au/raspberry-pi-3-model-b-plus.html )
  
 ## Libraries
-GUI: [PyQt5](https://pypi.org/project/PyQt5/#files) - sudo pip3 install pyqt5
-LED Operation: [rpi_ws281x](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel) - sudo pip3 rpi_ws281x adafruit-circuitpython-neopixel
+GUI: [PyQt5](https://pypi.org/project/PyQt5/#files) - sudo pip3 install pyqt5\
+LED Operation: [rpi_ws281x](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel) - sudo pip3 rpi_ws281x adafruit-circuitpython-neopixel\
 MIDI file reading: [pretty_midi](https://pypi.org/project/pretty_midi/#files) - sudo pip3 install pretty_midi
  
 ## Instructions
