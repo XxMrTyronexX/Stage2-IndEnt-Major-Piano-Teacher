@@ -18,7 +18,7 @@ MIDI file reading: [pretty_midi](https://pypi.org/project/pretty_midi/#files) - 
  5) In the refresh_songs() function, change the os.walk directory to the location that your USBs are mounted to
  6) run the program with python3 using Sudo privellages - Sudo python3 gui.py
 
-## To get PI to work with WS2812B LEDs
+## To get the Raspberry PI to work with WS2812B LEDs
  1) install the library to operate the LED - sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
  2) force reinstall blinka - sudo python3 -m pip install --force-reinstall adafruit-blinka
  3) perform an apt-get update - sudo apt-get update
