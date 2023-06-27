@@ -1,4 +1,4 @@
-# Stage2-IndEnt-Major-Piano-Teacher
+# Stage2-Major-Piano-Teacher
 This is the source code for my SACE Stage 2 Industry and Entrepreneurial Solutions Major project. I used a Raspberry PI, 5 Inch DSI touch screen and WS2812B LED Strip
 
 ## Parts Used (from core electronics)
