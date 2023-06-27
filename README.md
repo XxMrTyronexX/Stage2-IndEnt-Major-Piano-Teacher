@@ -1,5 +1,5 @@
 # Stage2-Major-Piano-Teacher
-This is the source code for my SACE Stage 2 Industry and Entrepreneurial Solutions Major project. I used a Raspberry PI, 5 Inch DSI touch screen and WS2812B LED Strip
+This is the source code for my Major project. I used a Raspberry PI, 5 Inch DSI touch screen and WS2812B LED Strip
 
 ## Parts Used (from core electronics)
  - [1M LED Strip - WS2812B](https://core-electronics.com.au/1m-rgb-led-strip-ws2812b-144-per-meter-white-strip-weatherproof.html)
